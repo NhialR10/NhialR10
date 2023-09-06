@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Nhial Lual
-- 👀 I’m interested in WebDevs
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Information System Engineering
-- 💞️ I’m looking to collaborate on webDevs projects
+- 💞️ I’m currently learning wepdevelopment
 - 📫 How to reach me @R10risky on Instagram
 
 <!---
